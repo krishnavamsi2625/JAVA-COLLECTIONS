@@ -1,2 +1,2 @@
 # java collections
-It contains java collections programs for ec understanding
+It contains java collections programs for Easy understanding
