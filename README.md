@@ -1,2 +1,2 @@
-# DSA
-DSA PROBLEMS RELATED TO PLACEMENT
+# java collections
+It contains java collections programs for ec understanding
